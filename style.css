@@ -52,4 +52,9 @@ button {
   align-items: center;
   width: 4vh;
   height: 4vh;
+  font-weight: bold;
+}
+
+.operator {
+  background-color: bisque;
 }
