@@ -33,6 +33,10 @@ body {
   margin: 0px 2vh;
 }
 
+#result {
+  font-size: large;
+}
+
 #calc-keyboard {
   display: flex;
   flex-direction: column;
